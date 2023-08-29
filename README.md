@@ -1,30 +1,35 @@
-# MDP REPRESENTATION
+# EXPERIMENT 01:MDP REPRESENTATION
 
 ## AIM:
-Write your aim here
+To represent any one real world problem in Markov Decision Problem(MDP).
 
 ## PROBLEM STATEMENT:
 
 ### Problem Description
-Write your answer here
+Move a coin to reach the goal in a 3*3 grid.
 
 ### State Space
-Write your answer here
+{0,1,2,3,4,5,6,7,8}
 
 ### Sample State
-Write your answer here
+2
 
 ### Action Space
-Write your answer here
+{Up[0],Down[1],Left[2],Right[3]}
 
 ### Sample Action
-Write your answer here
+Down[1]
 
 ### Reward Function
-Write your answer here
+To reach goal ->+1(Reward)
+Otherwise ->0
 
 ### Graphical Representation
-Write your answer here
+```
+# Creating Dictionary
+P
+```
+
 
 ## PYTHON REPRESENTATION:
 Write your code here
