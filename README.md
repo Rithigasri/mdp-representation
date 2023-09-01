@@ -92,5 +92,5 @@ P={
 ## RESULT:
 Thus a real world problem is represented as Markov Decision Problem in the following ways successfully:
 1. Graphical Representation
-2. Python Representaion
+2. Python Representation
 
